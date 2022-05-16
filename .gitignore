@@ -1,0 +1,7 @@
+*.so
+*.engine
+*.pyc
+.idea/
+/mtcnn/chobj/
+/mtcnn/create_engines
+/pytrt.cpp
