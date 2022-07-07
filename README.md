@@ -55,9 +55,5 @@
 
 4. The "trt_mtcnn.py" demo program could also take various image inputs.  Refer to step 5 in Demo #1 for details.
 
-5. Check out my related blog posts:
-
-   * [TensorRT MTCNN Face Detector](https://jkjung-avt.github.io/tensorrt-mtcnn/)
-   * [Optimizing TensorRT MTCNN](https://jkjung-avt.github.io/optimize-mtcnn/)
 
 
